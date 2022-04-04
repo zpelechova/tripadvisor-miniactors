@@ -1,6 +1,6 @@
-# TripAdvisor Restaurants Scraper
+# TripAdvisor Hotels Scraper
 
-Get data from TripAdvisor fast and easily. It's suitable for such use cases as scraping TripAdvisor emails, addresses, awards and many more attributes of restaurants on TripAdvisor.
+Get data from TripAdvisor fast and easily. It's suitable for such use cases as scraping TripAdvisor emails, addresses, awards and many more attributes of hotels on TripAdvisor.
 
 # Input - TripAdvisor Crawler
 
@@ -91,6 +91,6 @@ You can extract a variety of data about a places listed on Tripadvisor, includin
 ```
 
 # TripAdvisor Cost of Usage
-Apify provides you with $5 free usage credits to use every month on the [Apify Free plan](https://apify.com/pricing) and you can get up to 200,000 results from this Tripadvisor Restaurant Scraper for $5. So it will be completely free for 200k results!
+Apify provides you with $5 free usage credits to use every month on the [Apify Free plan](https://apify.com/pricing) and you can get up to 200,000 results from this Tripadvisor Hotel Scraper for $5. So it will be completely free for 200k results!
 
-But if you need to get more data regularly you should grab an Apify subscription. We recommend our [$49/month Personal plan](https://apify.com/pricing) - you can get up to 2 million restaurants every month! Or if you want to scrape even more, grab our [Team plan](https://apify.com/pricing)!
+But if you need to get more data regularly you should grab an Apify subscription. We recommend our [$49/month Personal plan](https://apify.com/pricing) - you can get up to 2 million hotels every month! Or if you want to scrape even more, grab our [Team plan](https://apify.com/pricing)!
