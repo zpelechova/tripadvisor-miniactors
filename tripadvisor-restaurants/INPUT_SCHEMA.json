@@ -8,7 +8,7 @@
         "title": "Location",
         "type": "string",
         "description": "Location name as you would enter to TripAdvisor search. Actor takes the first result as desired location. Input countries, cities, neighborhoods",
-        "prefill": "Prague",
+        "prefill": "New Orleans",
         "editor": "textfield"
       },
       "maxItems": {
@@ -19,5 +19,5 @@
         "prefill": 10
       }
     },
-    "required": ["proxyConfiguration"]
+    "required": ["locationFullName"]
   }
