@@ -16,74 +16,52 @@ You can extract a variety of data about a places listed on Tripadvisor, includin
 ```json
 [
   {
-    "id": "8481561",
-    "type": "RESTAURANT",
-    "name": "Two Chicks Cafe",
+    "id": "281614",
+    "type": "HOTEL",
+    "name": "Andrew Jackson Hotel",
     "awards": [
-      {
-        "year": "2021",
-        "name": "Certificate of Excellence 2021"
-      },
       {
         "year": "2020",
         "name": "Certificate of Excellence 2020"
+      },
+      {
+        "year": "2019",
+        "name": "Certificate of Excellence 2019"
       }
     ],
-    "rankingPosition": "9",
-    "priceLevel": "$$ - $$$",
-    "category": "restaurant",
-    "rating": "4.5",
-    "isClosed": false,
-    "isLongClosed": false,
-    "phone": "+1 504-407-3078",
-    "address": "901 Convention Center Blvd #109, New Orleans, LA 70130-1769",
-    "email": "info@twochickscafe.com",
-    "cuisine": [
-      "American",
-      "Cajun & Creole",
-      "Healthy",
-      "Cafe",
-      "Vegetarian Friendly",
-      "Vegan Options",
-      "Gluten Free Options"
-    ],
-    "mealTypes": [],
-    "hours": [
-      [
-        {
-          "open": 480,
-          "close": 840
-        }
-      ],
-      [],
-      [
-        {
-          "open": 480,
-          "close": 840
-        }
-      ]
-    ],
-    "latitude": "29.942226",
-    "longitude": "-90.0651",
-    "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g60864-d8481561-Reviews-Two_Chicks_Cafe-New_Orleans_Louisiana.html",
-    "website": "http://www.twochickscafe.com/",
-    "rankingDenominator": "1606",
-    "rankingString": "#6 of 1,578 Restaurants in New Orleans",
-    "numberOfReviews": "599",
+    "rankingPosition": "60",
+    "priceLevel": "$$",
+    "priceRange": "$92 - $349",
+    "category": "hotel",
+    "rating": "4.0",
+    "hotelClass": "3.0",
+    "hotelClassAttribution": "This property is classified according to Giata.",
+    "phone": "+1 504-561-5881",
+    "address": "919 Royal St, New Orleans, LA 70116-2792",
+    "email": "fqinnsreservations@nolahotelgroup.com",
+    "amenities": [],
+    "prices": [],
+    "latitude": "29.96014",
+    "longitude": "-90.06308",
+    "webUrl": "https://www.tripadvisor.com/Hotel_Review-g60864-d281614-Reviews-Andrew_Jackson_Hotel-New_Orleans_Louisiana.html",
+    "website": "http://www.andrewjacksonhotel.com/",
+    "rankingString": "#60 of 183 hotels in New Orleans",
+    "rankingDenominator": "183",
+    "numberOfReviews": "1044",
     "reviewsCount": 0,
     "reviews": [],
     "reviewTags": [
       {
-        "text": "brunch",
-        "review_count": 38
+        "text": "great location",
+        "review_count": 146
       },
       {
-        "text": "french toast",
-        "review_count": 74
+        "text": "french quarter",
+        "review_count": 311
       },
       {
-        "text": "crab cake benedict",
-        "review_count": 15
+        "text": "bourbon street",
+        "review_count": 82
       }
     ]
   }
@@ -91,6 +69,7 @@ You can extract a variety of data about a places listed on Tripadvisor, includin
 ```
 
 # TripAdvisor Cost of Usage
+
 Apify provides you with $5 free usage credits to use every month on the [Apify Free plan](https://apify.com/pricing) and you can get up to 200,000 results from this Tripadvisor Restaurant Scraper for $5. So it will be completely free for 200k results!
 
-But if you need to get more data regularly you should grab an Apify subscription. We recommend our [$49/month Personal plan](https://apify.com/pricing) - you can get up to 2 million restaurants every month! Or if you want to scrape even more, grab our [Team plan](https://apify.com/pricing)!
+But if you need to get more data regularly you should grab an Apify subscription. We recommend our [\$49/month Personal plan](https://apify.com/pricing) - you can get up to 2 million restaurants every month! Or if you want to scrape even more, grab our [Team plan](https://apify.com/pricing)!
